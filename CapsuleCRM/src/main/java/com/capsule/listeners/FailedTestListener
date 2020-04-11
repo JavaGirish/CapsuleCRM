@@ -36,7 +36,7 @@ public class TestListener extends TestBase implements ITestListener {
     In every @Test method mention this as first line:
       test = extent.startTest("loginPageTitleTest"); // pass test name as parameter
     
-   
+   Extent report version: 2.14.2
    
 	 */
 	
